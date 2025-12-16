@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh Sharma
 
-<!--
-**SaurabhNew/SaurabhNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Accessibility Tester | Software Engineer | WCAG 2.1 / 2.2 | A11y Specialist**
 
-Here are some ideas to get you started:
+I specialize in Web Accessibility Testing for enterprise-scale applications, ensuring inclusive, compliant, and user-friendly digital experiences.  
+I work on **Microsoft products at HCLTech**, focusing on WCAG 2.1/2.2, ARIA, semantic HTML, and assistive technology testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 Accessibility Tester at **HCLTech (Microsoft Projects)**
+- 🔍 Expertise: **WCAG 2.1 / 2.2, Section 508, ARIA, MAS**
+- ♿ Assistive Tech: **JAWS, NVDA, Narrator**
+- 🛠 Tools: **Axe DevTools, Accessibility Insights, Colour Contrast Analyzer (CCA)**
+- 💻 Skills: **HTML, CSS, JavaScript, Python, Java**
+- 🎯 Goal: Build accessible, inclusive digital products
+
+---
+
+## 🧰 Tech & Tools I Use
+
+**Languages & Frameworks**  
+HTML • CSS • JavaScript • Python
+
+**Accessibility Standards**  
+WCAG 2.1 / 2.2 • Section 508 • ARIA • AODA • MAS
+
+**Assistive Technologies**  
+JAWS • NVDA • Narrator
+
+**Testing Tools**  
+Axe DevTools • Accessibility Insights • WAVE • Colour Contrast Analyzer
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: **saurabhsharma1234.12@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/saurabh-sharma-161196253/
+
+---
+
+⭐ *Always building. Always learning. Always making the web more accessible.*
